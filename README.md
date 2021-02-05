@@ -44,12 +44,12 @@
 - **conda deactivate;cd $HOME/enviroments;source T_bot_201028_env/bin/activate;cd $HOME/T_bot_2021_02_03**
 - python --version
 - **git branch**
-- **git branch 201028_template**
-- **git checkout 201028_template**
+- **git branch 2021_02_03_template**
+- **git checkout 2021_02_03_template**
 - **git checkout master**
-- **git branch -d 201028_template**
-- **git checkout -b 201028_template**
-- **git push --set-upstream origin 201028_template**
+- **git branch -d 2021_02_03_template**
+- **git checkout -b 2021_02_03_template**
+- **git push --set-upstream origin 2021_02_03_template**
 - pip uninstall loader
 - pip list
 - **git add .;git commit -m "test";git push**
