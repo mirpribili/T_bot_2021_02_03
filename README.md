@@ -17,6 +17,12 @@
 - *conda deactivate;cd $HOME/enviroments;source T_bot_2021_02_03_env/bin/activate;cd $HOME/T_bot_2021_02_03*
 - **git add .;git commit -m "add git simple project";git push origin**
 - **pip freeze > requirements.txt**
+
+- pip install python-dotenv
+- pip install aiogram
+? aiohttp==3.6.2
+? aioredis==1.3.1
+
   
 
 - git clone https://github.com/Latand/udemy_course.git
